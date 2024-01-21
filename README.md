@@ -1,7 +1,11 @@
-##UMMI 
+#UMMI 
+
+Unified Media Metadata Integration with RBAC
+
+### Important Points
+> Node should be installed on the system
+> Mongo should be installed on the system
 
 ### Instructions
-####1. Node should be installed on the system
-####2. Mongo should be installed on the system
-####3. Run -> npm install
-####4. Run -> nodemon index.js
+1. Run -> npm install
+2. Run -> nodemon index.js
